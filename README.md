@@ -2,7 +2,7 @@
 
 ### Sync Section
 
- -- Thursdays@ 4:00pm Pacific
+  - Thursdays@ 4:00pm Pacific
 
 ### Office hours
 
@@ -10,7 +10,7 @@
 
 ### Slack channel
 
-> [**ucbischool**](https://ucbischool.slack.com), channel #w215-fall-2020.
+  - [**ucbischool**](https://ucbischool.slack.com), channel #w215-fall-2020.
 
 ### Instructors
 
