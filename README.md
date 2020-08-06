@@ -74,7 +74,6 @@ When homework is assigned, it will be due two hours before the beginning of the 
 ## Late Submission Policy
 
 Solutions will be discussed during the live sessions of the course. Therefore, any assignment that is submitted after the deadline will be returned without grading and will receive a grade of zero.
-
 ## Participation
 
 Participation and taking an active part in every aspect of the course are key to internalizing the material of the course. Participation includes, but is not limited to, (i) active participation in live sessions, (ii) discussing assignments with other students, and/or (iii) activity in the class forum (by asking questions and/or contributing to answering other students’ questions).
@@ -82,6 +81,14 @@ Participation and taking an active part in every aspect of the course are key to
 The instructors will also reward participation credit for those who choose to live tweet their experiences reading the assigned research papers (see more in the next section). Tag the tweets with [<span class="underline">\#uc\_berkeley\_w215</span>](https://twitter.com/search?q=%23uc_berkeley_w215).
 
 We would also encourage you to find the authors’ twitter handles and @ them in your tweet. If you have an insight that you’d rather not be made public, the class slack channel may be a more appropriate forum to share those thoughts.
+
+### Your privacy while participating
+
+We use this public GitHub repository to list discussion leads and for students to share course projects.
+Contact the course instructors if you would prefer a more private option. For example, you may choose
+to use a pseudonym for discussion leads or share your course project materials only via more private
+services. not be visible in any way.
+
 
 ## Readings
 
