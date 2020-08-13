@@ -4,7 +4,7 @@
 >
 > - [List of project ideas](./ideas.md)
 > - [Tips on helping others with their projects](./helping-others.md)
-> - [List of projects for summer 2020 term](./list-of-projects.md)
+> - [List of projects](./list-of-projects.md)
 > - [Collaborating with Qualtrics](/project/tools/qualtrics)
 > - [Tips on setting up a Qualtrics survey](https://docs.google.com/document/d/1dCWqeEVaHSNwUDYGvA1_XT8BK_1JFZQUe2MjjIDPLbo/edit) (thanks to Jacky Ho)
 
@@ -98,7 +98,6 @@ At this point you should have run an initial pilot with at least a few convenien
     * A description of the pilot sessions (at least 2 people) and the resulting changes that were made to the research materials
     * Results and any discussion of those results.
     * Acknowledgements, detailing the help your team has received from those outside your project group as well as anyone else.
-
 
  2. A final project presentation covering a subset of the final paper (see live session below).
 
