@@ -1,4 +1,4 @@
-## Unit 6: Usable Security – *June 11*
+## Unit 6: Usable Security - *October 1*
 
 ### Readings due
 
@@ -13,11 +13,10 @@
 In the breakout group projects that we started during class 4 and presented in class 5, we hope you all learned that:
 
 1. Understanding the specifics of a problem is an essential first step and worth your time.
-    
+   
 2. Different assumptions of costs and benefits can lead to very different research designs.
 
-Therefore, when you are pitching projects ideas, put 80% of your effort into writing a crisp and clear definition of the problem you want to investigate or hypothesis you wish to test, and then 20% of effort into
-saying which research method (survey, lab study, field study, etc.) would best apply to the problem.
+Therefore, when you are pitching projects ideas, put 80% of your effort into writing a crisp and clear definition of the problem you want to investigate or hypothesis you wish to test, and then 20% of effort into saying which research method (survey, lab study, field study, etc.) would best apply to the problem.
 
 ### Assignments due
 

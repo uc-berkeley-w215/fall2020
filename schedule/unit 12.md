@@ -1,4 +1,4 @@
-## Unit 12: Mobile Permissions – *July 23*
+## Unit 12: Mobile Permissions - *November 19*
 
 ### Async material note:
 
@@ -10,11 +10,7 @@
 
   - Balebako, R., Jung, J., Lu, W., Cranor, L., & Nguyen, C. (2013). *Little brother’s watching you: Raising awareness of data leaks on smartphones.* Proceedings of the 9th Symposium on Usable Privacy and Security, SOUPS. [http://cups.cs.cmu.edu/soups/2013/proceedings/a12\_Balebako.pdf](http://cups.cs.cmu.edu/soups/2013/proceedings/a12_Balebako.pdf)
 
-  - Felt, A. P., Ha, E., Egelman, S., Haney, A., Chin, E., & Wagner,
-    D. (2012). *Android permissions: User attention, comprehension,
-    and behavior.* Proceedings of the 8th Symposium on Usable Privacy
-    and Security. ACM.
-    [http://cups.cs.cmu.edu/soups/2012/proceedings/a3\_Felt.pdf](http://cups.cs.cmu.edu/soups/2012/proceedings/a3_Felt.pdf)
+  - Felt, A. P., Ha, E., Egelman, S., Haney, A., Chin, E., & Wagner, D. (2012). *Android permissions: User attention, comprehension, and behavior.* Proceedings of the 8th Symposium on Usable Privacy and Security. ACM. [http://cups.cs.cmu.edu/soups/2012/proceedings/a3\_Felt.pdf](http://cups.cs.cmu.edu/soups/2012/proceedings/a3_Felt.pdf)
 
   - Kelley, P. G., Cranor, L. F., & Sadeh, N. (2013). *Privacy as part of the app decision*-*making process.* Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI.
 

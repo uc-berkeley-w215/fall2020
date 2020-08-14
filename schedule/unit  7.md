@@ -1,4 +1,4 @@
-## Unit 7: Privacy – *June 18*
+## Unit 7: Privacy - *October 8*
 
 ### Readings due
 

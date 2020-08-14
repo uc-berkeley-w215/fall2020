@@ -1,6 +1,4 @@
-## Unit 11: Warnings – *July 16*
-
-### Readings to be presented
+## Unit 11: Warnings - *November 5*
 
 ### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
 

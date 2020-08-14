@@ -1,4 +1,4 @@
-## Unit 13: Secure Communication – *July 30*
+## Unit 13: Secure Communication - *December 3*
 
 ### Readings to be presented
 

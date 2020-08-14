@@ -1,4 +1,4 @@
-## Unit 14: Privacy Policies – *August 6*
+## Unit 14: Privacy Policies - *December 10*
 
 ### Readings to be presented
 
