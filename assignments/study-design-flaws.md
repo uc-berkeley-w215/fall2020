@@ -12,7 +12,7 @@ Based on the information below, identify *at least* 5 flaws that jeopardize the 
 
 **Overview:**
 
-We performed a study to compare GraphicPass to traditional passwords. Participants were observed using both textual passwords, and then GraphicPass. Afterwards, we gave them a survey to evaluate each system.
+We performed a study to compare GraphicPass to traditional passwords. Participants were observed using GraphicPass. Afterwards, we gave them a survey to evaluate each system.
 
 **Experimental Environment:**
 
