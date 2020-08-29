@@ -8,11 +8,37 @@
 > - [Collaborating with Qualtrics](/project/tools/qualtrics)
 > - [Tips on setting up a Qualtrics survey](https://docs.google.com/document/d/1dCWqeEVaHSNwUDYGvA1_XT8BK_1JFZQUe2MjjIDPLbo/edit) (thanks to Jacky Ho)
 
-You will design a research protocol to evaluate human behaviors or attitudes that impact security or privacy in computing systems, writing up the protocol as if it were an (incomplete) research paper and presentation. (Incomplete because you will not have time to run the study or get results.)
+
+
+You will design a research protocol to evaluate human behaviors or attitudes that impact security or privacy in computing systems, writing up the protocol as if it were an (incomplete) research paper and presentation. (Incomplete because you may not have time to run more than a pilot study.)
 
 Pilot any components that can be piloted in the time available, and/or use peers from other project groups to identify ways to improve your protocol. Project groups will be either 2-3 people.
 
+The final deliverable with be a research paper which should contain:
+
+  - **Motivation**: why the topic you chose is relevant and interesting in usable security and privacy.
+  - **Research Question**: a concise statement of the question you want to answer, such as a behavior you would like to measure the prevalence of or a hypothesis that one approach to a problem is more effective than another.
+  - **Related work**: a description of research that inspired yours or that your results/methodology build upon.
+  (This need *not* be the size of a published paper's related work section. You don't need to read extra papers just to make this look bigger.  Cite what was important to your team as you approached this work.)
+  - **Methodology**: an overview of the research method, the prepared study materials, and recruiting plan.
+  - **Results** A description of the pilot sessions and the resulting changes that were made to the research materials
+  - **Discussion**: interpreting the results and any implications of them.
+  - **Acknowledgements**: detailing the help your team has received from those outside your project group as well as anyone else.
+
 Be proactive about talking with the instructor before the project proposal is due in case you have chosen a topic that is out of scope or not well-scoped.
+
+### Budget and recruiting
+
+We have a budget of $100/student for running studies, so you can pay participants via such services as
+ - [Prolific](https://www.prolific.co/) (strongly recommended by Professor Egelman), 
+ -  [Qualtrics](https://berkeley.ca1.qualtrics.com/) (some teams have reported a $500 minimum for recruiting)
+ - [Amazon’s Mechanical Turk](https://www.mturk.com/)
+     > Note that we've received reports that MTurk's data quality has gone significantly down due to infiltration by bots, and one team in the fall term found the great majority of participants failed to do the task that was required.
+
+For building surveys, make sure to read the instructions for using Berkeley's site license for [Qualtrics](/project/tools/qualtrics) to get all their advanced features.
+
+
+### Ethics
 
 You may use the class’s running list of [<span class="underline">project ideas</span>](./ideas.md).
 
@@ -20,7 +46,9 @@ You will need to familiarize yourself with the [University guidelines](https://c
 
 > "generally do not constitute research because their purpose is to provide training in research as part of the overall educational mission of a program and are not designed to contribute to new knowledge. However, if ... the instructor or student wishes to conduct further investigation and analyses in order to contribute to scholarly knowledge ... it meets the above definition of research and requires CPHS/OPHS review."
 
-We interpret that to mean that if your project is going well and you expect to have a result worth publishing, you will want to add an ethics reivew.
+We interpret that to mean that if your project is going well and you expect to have a result worth publishing, you will want to add an ethics review.
+
+### Schedule
 
 **You will want to get started early**, seek feedback early, pilot early, and leave time for many revisions of your study materials. In the words of a former student in this course after submitting a successful
 project:
@@ -28,16 +56,6 @@ project:
 > *This is tough. Every time I take another pass at this I see more things I want to change. Are the studies you work on always this iterative? How do you know when you're actually ready to deploy?*
 
 In fact, most studies designed by researchers with decades of experience will go through more iterations than you have time for during this term, often with over a dozen iterations of test materials and two to four pilot studies. One of the things you will be learning this term is that the human-subjects studies you read are the results of lots of work you are unlikely to read about in the paper, and far more work than most people understand.
-
-**New this term**, we have a budget of $100/student for running studies, so you can pay participants via such services as
- - [Prolific](https://www.prolific.co/) (strongly recommended by Professor Egelman), 
- -  [Qualtrics](https://berkeley.ca1.qualtrics.com/) (some teams have reported a $500 minimum for recruiting)
- - [Amazon’s Mechanical Turk](https://www.mturk.com/)
-     > Note that we've received reports that MTurk's data quality has gone significantly down due to infiltration by bots.
-
-For building surveys, make sure to read the instructions for using Berkeley's site license for [Qualtrics](/project/tools/qualtrics) to get all their advanced features.
-
-## Deliverables 
 
 ### Unit 6, before the live session
 
@@ -89,19 +107,10 @@ At this point you should have run an initial pilot with at least a few convenien
 
 ### Unit 14, before the live session
 
- 1. Your group will submit a content-complete draft of your. It should include:
+ 1. Submit a content-complete draft of your paper with all the required sections (see the top of this document.)
 
-    * Motivation: why the topic you chose is relevant and interesting in usable security and privacy.
-    * A concise statement of your research questions and hypotheses, or what it is that you hope to learn
-    * Related work: what works inspired yours or do your results/methodology build upon? (This need *not* be the size of a published paper's related work section. You don't need to read extra papers just to make this look bigger.  Cite what was important to your team as you approached this work.)
-    * Methodology.  An overview of the research method, the prepared study materials, and recruiting plan.
-    * A description of the pilot sessions (at least 2 people) and the resulting changes that were made to the research materials
-    * Results and any discussion of those results.
-    * Acknowledgements, detailing the help your team has received from those outside your project group as well as anyone else.
+ 2. Present your project to the class.
 
- 2. A final project presentation covering a subset of the final paper (see live session below).
-
- Papers in the past have been roughly 5-7 pages.
 
 ### Unit 14, during the live session
 
