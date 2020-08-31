@@ -13,7 +13,7 @@
 
 ### Assignments due
 
-1.  > Complete the IRB training by following the instructions here: [ttps://cphs.berkeley.edu/training.html</span>](https://cphs.berkeley.edu/training.html). Make sure that you complete the “Group 2 (soc-behav) Human Subjects Curriculum.” Submit a PDF of your completion certificate as proof of completion.
+1.  > Complete the IRB training by following the instructions here: [https://cphs.berkeley.edu/training.html</span>](https://cphs.berkeley.edu/training.html). Make sure that you complete the “Group 2 (soc-behav) Human Subjects Curriculum.” Submit a PDF of your completion certificate as proof of completion.
 
 1.  > Pick a cognitive bias from [his list</span>](https://en.wikipedia.org/wiki/List_of_cognitive_biases). Create a slide to present in class that explains the bias and how it might impact users’ security or privacy behavior (or the study of that behavior).
 
