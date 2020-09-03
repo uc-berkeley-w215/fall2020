@@ -33,10 +33,8 @@
 
 ### Synchronous discussion agenda
 
-  - > Apology \[Stuart\]
+  - > Address those questions about ethics training that can’t wait until everyone has completed it
 
-  - > Address those questions about ethics training that can’t wait until everyone has completed it \[Stuart\]
+  - > Discuss readings
 
-  - > Discuss readings \[Cristian\]
-
-  - > Discussion of questions if time available (assignment part 3) \[Cristian\]
+  - > Discussion of questions if time available (assignment part 3)
