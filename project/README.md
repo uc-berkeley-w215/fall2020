@@ -1,12 +1,13 @@
 # W215 Course Project Guidelines
 
-> **Quick links**:
+**Quick links**:
+
+- [Last term's list of projects](https://github.com/uc-berkeley-w215/summer2020/blob/master/project/list-of-projects.md)
 >
-> - [List of project ideas](./ideas.md)
-> - [Tips on helping others with their projects](./helping-others.md)
-> - [List of projects](./list-of-projects.md)
-> - [Collaborating with Qualtrics](/project/tools/qualtrics)
-> - [Tips on setting up a Qualtrics survey](https://docs.google.com/document/d/1dCWqeEVaHSNwUDYGvA1_XT8BK_1JFZQUe2MjjIDPLbo/edit) (thanks to Jacky Ho)
+- [List of project ideas](./ideas.md)
+- [Tips on helping others with their projects](./helping-others.md)
+- [Collaborating with Qualtrics](/project/tools/qualtrics)
+- [Tips on setting up a Qualtrics survey](https://docs.google.com/document/d/1dCWqeEVaHSNwUDYGvA1_XT8BK_1JFZQUe2MjjIDPLbo/edit) (thanks to Jacky Ho)
 
 
 
