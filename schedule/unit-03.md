@@ -10,7 +10,9 @@
 
 
 ### Assignments due
-This week, there is no mandatory assignment. You may do the [heuristic evaluation assigment](../assigments/heuristic-evaluation.md) for extra-credit - that is, if you do it, you will get the credit for it added in place of credit lost on other past or future assignments. In this case, you may also do some partial work, and receive extra credit proportional to the work done.
+This week, there is no mandatory assignment. You may do the [heuristic evaluation assigment](../assignments/heuristic-evaluation.md) for extra-credit - that is, if you do it, you will get the credit for it added in place of credit lost on other past or future assignments.
+
+You may also do some partial work for this optional assignment. If you do, you will receive extra credit proportional to the work done.
 
 
 
