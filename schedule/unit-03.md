@@ -3,27 +3,18 @@
 ### Readings due
 
   - Lazar et al., Chapter 3 Experimental Design
-
   - Lazar et al., Chapter 10 Usability Testing
-
   - [The Emperor’s New Security Indicators: An Evaluation of Website Authentication and the Effect of Role Playing on Usability Studies](http://commerce.net/wp-content/uploads/2012/04/The%20Emperors_New_Security_Indicators.pdf), by Schechter et al.
-
   - Read one of the final project papers from the previous term's W215 students.
 
 
+
 ### Assignments due
-
-**Heuristic evaluation** (a method discussed in the async lecture for this unit): Perform a heuristic evaluation of a security feature in your web browser or on a website. You may do this either in pairs, or individually. You may find useful the classic article on [how to conduct an heuristic evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/), by Jakob Nielsen.
-
-1. Choose a set of heuristics. You may pick some or all of [Nielsen's 10 usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/), or Shneiderman's 8 golden rules of interface design (described in Chapter 10 of Lazar's book).
-1. Apply those heuristics to a security feature in an application or website, or to a feature that impacts security even though security is not its primary function.
-1. Document your results using screenshots of the application or website you are analyzing; if possible, draw over the images to highlight those features that you (or any other evaluators) are focusing on when conducting the evaluation.
-1. Provide suggestions on how any potential problems could be improved. *Your suggestion might be a new design, change to a feature, or it might be a suggestion for additional empirical research.*
+This week, there is no mandatory assignment. You may do the [heuristic evaluation assigment](../assigments/heuristic-evaluation.md) for extra-credit - that is, if you do it, you will get the credit for it added in place of credit lost on other past or future assignments. In this case, you may also do some partial work, and receive extra credit proportional to the work done.
 
 
 
 ### Synchronous discussion agenda
-
 * Discuss answers to the assignment (15 minutes)
 * Discuss paper (10 minutes) \[Cristian\]
 * Split into breakout groups to discuss the following: \[Cristian\]
