@@ -30,10 +30,10 @@ We will give **extra credit** if, before the class in which you lead a discussio
 
 #### Other guidelines
 
-- A detailed discussion of all methodology and results would take far more time than you have.  You will need to work hard to identify any unique methdological choices or important results and stick only to those.
+- A detailed discussion of all methodology and results would take far more time than you have.  You will need to work hard to identify any unique methodological choices or important results and stick only to those.
 
 - Avoid reading aloud large parts of the paper when you’re doing the discussion. Try instead to describe in your own words the authors’ findings or discussions.
 
 - Don’t be afraid to state openly when you don’t understand part of a paper (or even the whole paper\!) It’s very helpful for both the instructors and the rest of the students to know when something is not clear.
 
-- You are unlikely to have time to discuss the related work section, so unless a piece of related work is something we've read in class (e.g., you can save time on discussion methodology by saying a paper uses similar methdology to X et. al) or there's a connection to a paper you're deeply passionate about, you don't need to discuss the section.
+- You are unlikely to have time to discuss the related work section, so unless a piece of related work is something we've read in class (e.g., you can save time on discussion methodology by saying a paper uses similar methodology to X et. al) or there's a connection to a paper you're deeply passionate about, you don't need to discuss the section.
