@@ -8,7 +8,7 @@
 
   - [Using Fingerprint Authentication to Reduce System Security: An Empirical Study](https://drive.google.com/file/d/1iXa3nLVlDFnsRxzT5d1d3Dpnr1mNX2i7/view?usp=sharing), by Wimberly and Liebrock
 
-  - Operating System Framed in Case of Mistaken Identity](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/osframed.pdf), by Bravo-Lillo et al.
+  - [Operating System Framed in Case of Mistaken Identity](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/osframed.pdf), by Bravo-Lillo et al.
 
 
 ### Assignments due
