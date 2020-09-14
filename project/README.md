@@ -14,7 +14,7 @@ You will design a research protocol to evaluate human behaviors or attitudes tha
 
 Pilot any components that can be piloted in the time available, and/or use peers from other project groups to identify ways to improve your protocol. Project groups will be either 2-3 people.
 
-The final deliverable with be a research paper which should contain:
+The final deliverable will be a research paper which should contain:
 
   - **Motivation**: why the topic you chose is relevant and interesting in usable security and privacy.
   - **Research Question**: a concise statement of the question you want to answer, such as a behavior you would like to measure the prevalence of or a hypothesis that one approach to a problem is more effective than another.
@@ -31,7 +31,7 @@ Be proactive about talking with the instructor before the project proposal is du
 
 We have a budget of $100/student for running studies, so you can pay participants via such services as
  - [Prolific](https://www.prolific.co/) (strongly recommended by Professor Egelman), 
- -  [Qualtrics](https://berkeley.ca1.qualtrics.com/) (some teams have reported a $500 minimum for recruiting)
+ - [Qualtrics](https://berkeley.ca1.qualtrics.com/) (some teams have reported a $500 minimum for recruiting)
  - [Amazon’s Mechanical Turk](https://www.mturk.com/)
      > Note that we've received reports that MTurk's data quality has gone significantly down due to infiltration by bots, and one team in the fall term found the great majority of participants failed to do the task that was required.
 
