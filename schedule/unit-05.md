@@ -14,7 +14,7 @@
 
 ### Assignments due
 
-[Perform a sample-size determination](/assignments/sample.size.md).
+[Perform a sample-size determination](/assignments/sample-size.md).
 
 ### Synchronous discussion agenda
 
