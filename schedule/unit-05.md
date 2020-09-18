@@ -14,7 +14,7 @@
 
 ### Assignments due
 
-[Perform a sample-size determination](/assignments/sample-size.md).
+[Perform a sample-size determination](/assignments/sample-size.md) and submit it as Assignment 4 in ISVC.
 
 ### Synchronous discussion agenda
 
