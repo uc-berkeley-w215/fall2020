@@ -6,7 +6,7 @@
 
   - [No One Can Hack My Mind](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf), by Ion, Reeder, and Consolvo.
 
-  - [The Quest to Replace Passwords: A Framework Comparative Evaluation of Web Authentication Schemes](https://www.cl.cam.ac.uk/~fms27/papers/2012-BonneauHerOorSta-password--oakland.pdf), by Bonneau et al.
+  - [The Quest to Replace Passwords: A Framework Comparative Evaluation of Web Authentication Schemes](https://www.cl.cam.ac.uk/~fms27/papers/2012-BonneauHerOorSta-password--oakland.pdf), by Bonneau et al. **Discussion lead: Jennifer Mvongo**
 
 ### A brief note about framing a research problem
 
