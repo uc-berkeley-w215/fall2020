@@ -7,7 +7,7 @@
 
   - > [Judgment Under Uncertainty: Heuristics and Biases](https://www.jstor.org/stable/1738360), by Tversky and Kahneman.
 
-  - > [Institutional Review Board (IRB) and Ethical Issues in Clinical Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272525/),by Kim.
+  - > [Institutional Review Board (IRB) and Ethical Issues in Clinical Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272525/), by Kim.
 
 
 
