@@ -8,7 +8,7 @@
 
 ### Assignments due
 
-  - **Project proposals due 24 hours before class (October 14)** *During those 48 hours you can focus on the midterm, and your instructors will do their best to ensure there’s valuable feedback waiting for you when the midterm is over or shortly thereafter.*
+  - **Project proposals due 24 hours before class (October 14)** Your instructors will use the 24-hours to get feedback ready in time for class.
 
   - Discussion leads to prepare presentations
 
