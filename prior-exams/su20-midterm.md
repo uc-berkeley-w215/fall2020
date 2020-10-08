@@ -68,7 +68,7 @@ Researchers in a between-subjects experiment find that 17 of 30 participants hee
 
 >> Only 3 participants pointed out that the two groups were different, and that one cannot conclude the null hypothesis (no difference) is true simply because there wasn't enough evidence to disprove the null hypothesis.  We expected that would be clear given that performance between the two groups differed by so much (>10%).  If we haven't made a glaring error in how we asked the question, we need to make sure a background on what hypothesis tests can and can't do is either part of a recorded lecture, assignment, or discussed in sync section.
 
->> A number of students suggested that the researchers might be wrong because participants could be color blind.  Participants being color blind, and thus unable to tell the difference between warnings of two colors, would work in favor of the hypothesis that there is no difference between the groups.  In a population with some fraction of color blindness, there would still be a proportion of the population where color is noticed, and to prove that color has no effect you'd have to prove that it has no effect for those who might notice.  (Regardless, in a study where participants are randomly assigned to groups, color blind participants would be equaly likely to be assigned to either group.)
+>> A number of students suggested that the researchers might be wrong because participants could be color blind.  Participants being color blind, and thus unable to tell the difference between warnings of two colors, would work in favor of the hypothesis that there is no difference between the groups.  In a population with some fraction of color blindness, there would still be a proportion of the population where color is noticed, and to prove that color has no effect you'd have to prove that it has no effect for those who might notice.  (Regardless, in a study where participants are randomly assigned to groups, color blind participants would be equally likely to be assigned to either group.)
 
 **1.6** *(11 points)*
 
@@ -118,7 +118,7 @@ In which reading were the traditional authentication categories of *something yo
 
 > Garfinkel's thesis
 
->> This was discussed in class and we thought that in less than five minutes one could search on "something that you have forgotten" in each of the paper documents or a web search with that tring and the first author of each paper.  We figured those who knew it would need only half that time.
+>> This was discussed in class and we thought that in less than five minutes one could search on "something that you have forgotten" in each of the paper documents or a web search with that string and the first author of each paper.  We figured those who knew it would need only half that time.
 
 **2.4** *(6 points)*:
 
@@ -136,7 +136,7 @@ A friend wants to meet to ask you to invest in a company to re-invent web authen
 
 > Bonneau et al.'s quest to replace passwords.
 
->> 11/14 papers identfied Bonneau et al., which was one of the more recently discussed.
+>> 11/14 papers identified Bonneau et al., which was one of the more recently discussed.
 
 **2.6** *(8 points)*:
 
@@ -162,7 +162,7 @@ In the paper “Experimenting at scale with Google Chrome’s SSL Warnings”, b
 
 > Each experimental treatment has a risk of harm. As the number of participants goes up, the marginal value of each participant to the statistical analysis decreases, whereas the aggregate risk grows linearly with the number of participants.
 
->> This was another queston that came directly from class discussion, where Stuart had asked why they might not have done a larger study and a student raied the issue of risk of harm to participants if the treatment was less effective than the control.  Four students mentioned the risk outweighing the dimninishing benefit, with partial credit (3 points) for those who mentioned diminishing benefits but not costs.  (Since the question describes "no additional cost", diminishing returns alone would not be a reason not to incrase the number of participants.)
+>> This was another question that came directly from class discussion, where Stuart had asked why they might not have done a larger study and a student raised the issue of risk of harm to participants if the treatment was less effective than the control.  Four students mentioned the risk outweighing the diminishing benefit, with partial credit (3 points) for those who mentioned diminishing benefits but not costs.  (Since the question describes "no additional cost", diminishing returns alone would not be a reason not to increase the number of participants.)
 
 **2.9** *(6 points)*:
 
