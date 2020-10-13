@@ -1,4 +1,4 @@
-## Unit 8: Midterm - *October 15*
+## Unit 8: Projects discussion - *October 15*
 
 ### Readings due
 
