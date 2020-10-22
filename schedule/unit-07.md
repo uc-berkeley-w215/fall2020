@@ -14,20 +14,6 @@
 
   - Prepare to discuss your progress on your project proposal so you can get more feedback before it’s due at Unit 8.
 
-### About the midterm
-
-It will be open book; topics to include (but not limited to):
-
-  - Readings
-
-  - Types of experiments (Survey, Interview, Lab, Field, Focus group, etc.)
-
-  - Sources of bias, alternative hypotheses, and other methodological limitations
-
-  - Statistical tests
-
-  - Ethics
-
 ### Synchronous discussion agenda
 
   - Questions about midterm (10 minutes, Stuart)
