@@ -3,6 +3,7 @@
 ### Readings to be presented
 
 - Johnson, M. L., Bellovin, S. M., Reeder, R. W., & Schechter, S. E. (2009). [Laissez-faire file sharing: Access control designed for individuals at the endpoints](https://academiccommons.columbia.edu/doi/10.7916/D8D79J6W/download). *New Security Paradigms Workshop*, NSPW. **Discussion lead: Nestor Catano**.
+- [Privacy Concerns in Chatbot Interactions](https://link-springer-com.libproxy.berkeley.edu/chapter/10.1007%2F978-3-030-39540-7_3), by Ischen et al. LNCS, vol. 11970. **Discussion lead: Yong Kim**.
 
 
 ### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
