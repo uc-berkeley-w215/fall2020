@@ -10,7 +10,6 @@
 
 - [Put your warning where your link is: Improving and evaluating email phishing warnings](https://dl.acm.org/doi/pdf/10.1145/3290605.3300748), by Petelka et al. [(cached in course folder)](https://drive.google.com/file/d/1HbbNACeRtJBcfSxI2HXXfQ8Xq0XCzWuL/view?usp=sharing)
 
-- [The Emperor’s New Password Manager: Security Analysis of Web-based Password Managers](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-li-zhiwei.pdf), by Li et al.
 
 
 ### Assignment
@@ -21,6 +20,6 @@
 
 ### Synchronous discussion agenda
 
-  - Discuss assigned readings (\~40 minutes)
+  - Discuss assigned readings (\~10 mins each)
 
-  - 10-minute presentations from each project group
+  - Rest of the time assigned to projects discussion
